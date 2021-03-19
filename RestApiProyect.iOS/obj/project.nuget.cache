@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ky6XN8xHKudNdDnI0KBMT4LHRej+DyCl4Ma0YdAImo6SFZ0HJaI0g66KyKrCm0g9tsgLBaXAvRvq/Ql27yJUA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\David Rafael Tejada\\source\\repos\\RestApiProyect\\RestApiProyect.iOS\\RestApiProyect.iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
